@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Agustin Lopez AKA @AFLP2199
+- 👀 I’m interested in developing websites on the Front-end side 
+- 🌱 I’m currently learning React and other backend tools such as Node.js and Express
+
+<!---
+AFLP2199/AFLP2199 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
