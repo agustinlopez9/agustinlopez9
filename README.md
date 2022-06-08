@@ -1,5 +1,5 @@
 ## Welcome to my profile!
-- 👋 Hi, I’m Agustin Lopez AKA @AFLP2199.
+- 👋 Hi, I’m Agustin Lopez
 - 👀 I’m interested in developing websites on the Front-end side.
 - 🌱 I’m a React.js developer but I also have knowledge in backend tools such as Node.js and Express.
 
