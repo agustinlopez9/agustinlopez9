@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 - 👋 Hi, I’m Agustin Lopez
-- 🌱 I’m a Fullstack JS developer
+- <p> :computer: I’m a Fullstack JS developer from <img width="15" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_flag_icon.svg"/> <b>Buenos Aires, Argentina<b/>.<p/>
 
 ## Skills
 
