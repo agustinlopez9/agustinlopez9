@@ -25,6 +25,7 @@
 
 #### Testing
 <img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
+<img align="left" width="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />     
 
 <br/>
 
